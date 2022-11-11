@@ -1,0 +1,26 @@
+{
+  "name": "holbertonschool-web_graphql",
+  "version": "1.0.0",
+  "description": "GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MontyWilliams/holbertonschool-web_graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MontyWilliams/holbertonschool-web_graphql/issues"
+  },
+  "homepage": "https://github.com/MontyWilliams/holbertonschool-web_graphql#readme",
+  "dependencies": {
+    "apollo-boost": "^0.4.9",
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.6.0",
+    "react-apollo": "^3.1.5"
+  }
+}
